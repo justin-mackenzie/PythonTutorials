@@ -1,4 +1,3 @@
-# Store input numbers
 print('Welcome to my first Hello World Program')
 print('When you are ready to exit, enter an empty name')
 
